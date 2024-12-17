@@ -1,4 +1,5 @@
 #Author-Tim Paterson
+#Modified by a four pawed bear for the hackspace in a small local town for local people
 #Description-Post process all CAM setups, using the setup name as the output file name.
 
 import adsk.core, adsk.fusion, adsk.cam, traceback, shutil, json, os, os.path, time, re, pathlib, enum, tempfile
